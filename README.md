@@ -23,7 +23,7 @@
 <div align="center">
   <a href="#thinking-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trollface-requisitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tongue-requisitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-build">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </div>
@@ -41,7 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :tongue: Requesito
 
 - [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
-- [Maven](https://maven.apache.org/download.cgi) 
 
 ## :gear: Build
 
