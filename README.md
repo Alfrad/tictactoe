@@ -23,7 +23,7 @@
 <div align="center">
   <a href="#thinking-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tongue-requisitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tongue-requesitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-build">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </div>
@@ -45,9 +45,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :gear: Build
 
 ```bash
-$ mvn clean compile assembly:single 
+$ mvn clean install 
 $ cd target
-$ java -jar nameOfJar.jar
+$ java -jar nameOfJarWithVersion*-jar-with-dependencies.jar
 ```
 Ps: Os movimentos devem ser iniciados com (número,número), onde número assume um valor mínimo de 0 e um máximo de 2.
 ## :memo: License
