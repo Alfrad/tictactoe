@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Commons Lang](http://commons.apache.org/proper/commons-lang/)
 
-## :tongue: Requesito
+## :tongue: Requesitos
 
 - [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
